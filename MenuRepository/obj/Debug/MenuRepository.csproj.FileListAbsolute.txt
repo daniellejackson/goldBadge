@@ -1,0 +1,6 @@
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\bin\Debug\MenuRepository.dll
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\bin\Debug\MenuRepository.pdb
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\obj\Debug\MenuRepository.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\obj\Debug\MenuRepository.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\obj\Debug\MenuRepository.dll
+C:\Users\weath\source\repos\GoldBadge\MenuRepository\obj\Debug\MenuRepository.pdb

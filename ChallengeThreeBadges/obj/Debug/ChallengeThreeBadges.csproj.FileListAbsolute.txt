@@ -1,0 +1,10 @@
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\bin\Debug\ChallengeThreeBadges.exe.config
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\bin\Debug\ChallengeThreeBadges.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\bin\Debug\ChallengeThreeBadges.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\bin\Debug\BadgesRepository.dll
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\bin\Debug\BadgesRepository.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\obj\Debug\ChallengeThreeBadges.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\obj\Debug\ChallengeThreeBadges.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\obj\Debug\ChallengeThreeBadges.csproj.CopyComplete
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\obj\Debug\ChallengeThreeBadges.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeThreeBadges\obj\Debug\ChallengeThreeBadges.pdb

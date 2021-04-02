@@ -1,0 +1,10 @@
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\bin\Debug\ChallengeTwoClaims.exe.config
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\bin\Debug\ChallengeTwoClaims.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\bin\Debug\ChallengeTwoClaims.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\bin\Debug\ClaimRepository.dll
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\bin\Debug\ClaimRepository.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\obj\Debug\ChallengeTwoClaims.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\obj\Debug\ChallengeTwoClaims.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\obj\Debug\ChallengeTwoClaims.csproj.CopyComplete
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\obj\Debug\ChallengeTwoClaims.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeTwoClaims\obj\Debug\ChallengeTwoClaims.pdb

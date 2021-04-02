@@ -1,0 +1,10 @@
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\bin\Debug\ChallengeOne.exe.config
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\bin\Debug\ChallengeOne.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\bin\Debug\ChallengeOne.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\bin\Debug\MenuRepository.dll
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\bin\Debug\MenuRepository.pdb
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\obj\Debug\ChallengeOneCafe.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\obj\Debug\ChallengeOneCafe.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\obj\Debug\ChallengeOneCafe.csproj.CopyComplete
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\obj\Debug\ChallengeOne.exe
+C:\Users\weath\source\repos\GoldBadge\ChallengeOne\obj\Debug\ChallengeOne.pdb

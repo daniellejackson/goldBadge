@@ -1,0 +1,6 @@
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\bin\Debug\ClaimRepository.dll
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\bin\Debug\ClaimRepository.pdb
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\obj\Debug\ClaimRepository.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\obj\Debug\ClaimRepository.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\obj\Debug\ClaimRepository.dll
+C:\Users\weath\source\repos\GoldBadge\ClaimRepository\obj\Debug\ClaimRepository.pdb

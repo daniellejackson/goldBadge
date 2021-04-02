@@ -1,0 +1,14 @@
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\TestBadgeRepoMethods.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\TestBadgeRepoMethods.pdb
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\obj\Debug\TestBadgeRepoMethods.csprojAssemblyReference.cache
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\obj\Debug\TestBadgeRepoMethods.csproj.CoreCompileInputs.cache
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\obj\Debug\TestBadgeRepoMethods.csproj.CopyComplete
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\obj\Debug\TestBadgeRepoMethods.dll
+C:\Users\weath\source\repos\GoldBadge\TestBadgeRepoMethods\obj\Debug\TestBadgeRepoMethods.pdb
